@@ -1,0 +1,3 @@
+[submodule "sriku/rittu/AWS"]
+	path = sriku/rittu/AWS
+	url = https://github.com/tejeswar2020/AWS.git
